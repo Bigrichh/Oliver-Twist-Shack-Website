@@ -137,7 +137,7 @@
                     <div class="w-full h-[380px] md:h-[400px] 2xl:h-[430px]">
                         <img class="w-full h-full object-cover" :src="staff.image" alt="Event Banner">
                     </div>
-                    <div class="flex flex-col gap-[4px]">
+                    <div class="flex flex-col gap-[4px] px-[24px] pb-[24px]">
                         <p class="font-medium">{{ staff.name }}</p>
                         <div>
                             <p class="opacity-50">{{ staff.role }}</p>
