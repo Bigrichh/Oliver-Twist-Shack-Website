@@ -6,8 +6,8 @@
         <section class="hero w-full h-fit flex flex-col">
             <NavBar></NavBar>
             <div class="w-full h-fit flex flex-col gap-[24px] md:gap-[48px] px-[24px] md:px-[48px] py-[24px] md:py-[48px]">
-                <img data-aos="fade-up" data-aos-duration="1500" class="w-full h-fit object-fit" src="../assets/Menu/foodmenu.jpg" alt="Food menu">
-                <img data-aos="fade-up" data-aos-duration="1500" class="w-full h-fit object-fit" src="../assets/Menu/drinkmenu.jpg" alt="Drink menu">
+                <img data-aos="fade-up" data-aos-duration="500" class="w-full h-fit object-fit" src="../assets/Menu/foodmenu.jpg" alt="Food menu">
+                <img data-aos="fade-up" data-aos-duration="500" class="w-full h-fit object-fit" src="../assets/Menu/drinkmenu.jpg" alt="Drink menu">
             </div>
         </section>
 

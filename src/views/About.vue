@@ -6,7 +6,7 @@
         <section class="hero w-full h-fit flex flex-col">
             <NavBar></NavBar>
             <div class=" w-full h-full text-black p-[24px] md:p-[48px] flex flex-col justify-end">
-                <div data-aos="fade-up" data-aos-duration="1500">
+                <div data-aos="fade-up" data-aos-duration="500">
                     <h1 class="font-light text-[32px] md:text-[40px] xl:text-[71px] 2xl:text-[85.35px] opacity-50">
                         THE BEGINNING OF OUR JOURNEY</h1>
                     <p class="font-light text-[18px] md:text-[20px] 2xl:text-[24px] opacity-80">Get ready to satisfy
@@ -30,10 +30,10 @@
         <section class="w-full h-fit px-[24px] md:px-[48px] py-[48px] md:py-[96px]">
             <div class="flex flex-col gap-[24px]">
 
-                <h2 data-aos="fade-up" data-aos-duration="1500"
+                <h2 data-aos="fade-up" data-aos-duration="500"
                     class="text-[24px] md:text-[32px] 2xl:text-[40px] font-light">Our Story</h2>
 
-                <p data-aos="fade-up" data-aos-duration="1500"
+                <p data-aos="fade-up" data-aos-duration="500"
                     class="text-[18px] md:text-[20px] 2xl:text-[24px] font-light">From that moment, what began as a
                     small idea evolved into something much greater. <span class="opacity-30">
                         The passion for creating bold, flavorful dishes
@@ -42,7 +42,7 @@
                         cuisine to the community.
                     </span> From the very beginning, our mission has been simple: deliver exceptional
                     value and unforgettable flavors.</p>
-                <p data-aos="fade-up" data-aos-duration="1500"
+                <p data-aos="fade-up" data-aos-duration="500"
                     class="text-[18px] md:text-[20px] 2xl:text-[24px] font-light">Why the name Oliver Twist? Like the
                     young orphan from Charles Dickens' classic tale, we’ve always believed in asking for more. <span
                         class="opacity-30">
@@ -52,7 +52,7 @@
                         value, more experiences that keep you coming back for more.
                     </span></p>
 
-                <p data-aos="fade-up" data-aos-duration="1500"
+                <p data-aos="fade-up" data-aos-duration="500"
                     class="text-[18px] md:text-[20px] 2xl:text-[24px] font-light">But what truly sets us apart? <span
                         class="opacity-30"> Since
                         opening,</span> we’ve proudly served over 20,000 happy customers, <span class="opacity-30">
@@ -64,20 +64,20 @@
                         a commitment to quality.
                     </span> And as we’ve grown, we’ve kept one thing constant: making sure every visit
                     leaves you wanting more.</p>
-                <p data-aos="fade-up" data-aos-duration="1500"
+                <p data-aos="fade-up" data-aos-duration="500"
                     class="text-[18px] md:text-[20px] 2xl:text-[24px] font-light">Oliver Twist Shack isn’t just about
                     food. We believe in giving back. <span class="opacity-30"> Through the OTCares Foundation,</span> we
                     support our community by helping
                     the less privileged, one plate at a time. <span class="opacity-30">Our goal has always been to
                         uplift those around us, just
                         as we uplift our customers with every meal.</span> </p>
-                <p data-aos="fade-up" data-aos-duration="1500"
+                <p data-aos="fade-up" data-aos-duration="500"
                     class="text-[18px] md:text-[20px] 2xl:text-[24px] font-light">We aim to be the most sustainable
                     restaurant in every community we serve. <span class="opacity-30"> With a warm, inviting atmosphere,
                         we provide a space for
                         friends and families to come together and enjoy great food while making a positive impact on the
                         environment. </span>Every visit supports our efforts to create a more sustainable future.</p>
-                <p data-aos="fade-up" data-aos-duration="1500"
+                <p data-aos="fade-up" data-aos-duration="500"
                     class="text-[18px] md:text-[20px] 2xl:text-[24px] font-light">Where do we go from here? We envision
                     expanding Oliver Twist Shack into new communities, offering spaces for people to gather, enjoy
                     unique meals, and create lasting memories. With plans to grow our food delivery services and open
@@ -96,10 +96,10 @@
         </section>
 
         <section class="w-full h-fit xl:h-[105vh] items-center flex flex-col xl:flex-row gap-[48px] px-[24px] md:px-[48px]">
-            <div data-aos="fade-up" data-aos-duration="1500" class="w-full h-[80%]">
+            <div data-aos="fade-up" data-aos-duration="500" class="w-full h-[80%]">
                 <img class="w-fit h-full object-cover" src="../assets/About/oltlogo.png" alt="">
             </div>
-            <div data-aos="fade-up" data-aos-duration="1500"
+            <div data-aos="fade-up" data-aos-duration="500"
                 class="w-full h-full flex flex-col items-center justify-center">
                 <div class="w-full h-fit flex flex-col gap-[24px] items-end">
                     <p class="text-[18px] md:text-[20px] 2xl:text-[24px] font-light opacity-80">Cooking at Oliver Twist
@@ -126,12 +126,12 @@
 
         <!-- Our Staff -->
         <section class="w-full h-fit flex flex-col gap-[48px] px-[24px] md:px-[48px] py-[48px] md:py-[96px]">
-            <h2 data-aos="fade-up" data-aos-duration="1500"
+            <h2 data-aos="fade-up" data-aos-duration="500"
                 class="text-[24px] md:text-[32px] 2xl:text-[40px] font-light">Meet Our Staff</h2>
-            <div data-aos="fade-up" data-aos-duration="1500" class="w-full h-[380px] md:h-[400px] 2xl:h-[550px]">
+            <div data-aos="fade-up" data-aos-duration="500" class="w-full h-[380px] md:h-[400px] 2xl:h-[550px]">
                 <img class="w-full h-full object-cover" src="../assets/About/group.jpg" alt="Event Banner">
             </div>
-            <div data-aos="fade-up" data-aos-duration="1500" class="w-full flex flex-wrap gap-[24px]">
+            <div data-aos="fade-up" data-aos-duration="500" class="w-full flex flex-wrap gap-[24px]">
                 <div v-for="staff in staffs"
                     class="w-full md:w-[48%] xl:w-[31.8%] 2xl:w-[23.5%] flex flex-col gap-[16px] text-[18px] border-solid border-[1px] border-black border-opacity-5">
                     <div class="w-full h-[380px] md:h-[400px] 2xl:h-[430px]">

@@ -7,9 +7,9 @@
             <NavBar></NavBar>
             <div class="relative w-full h-[65%] px-[24px] md:px-[48px]">
                 <div class="imgoverlay h-full">
-                    <img data-aos="fade-up" data-aos-duration="1500" class="w-full h-full object-cover"
+                    <img data-aos="fade-up" data-aos-duration="500" class="w-full h-full object-cover"
                         src="../assets/Homepage/herosectionimg.jpg" alt="Food menu">
-                    <h1 data-aos="fade-up" data-aos-duration="1500"
+                    <h1 data-aos="fade-up" data-aos-duration="500"
                         class="z-10 absolute bottom-[32px] left-[32px] text-white font-light text-[32px] md:text-[40px] xl:text-[71px] 2xl:text-[85.35px]">
                         GET IN TOUCH</h1>
                 </div>

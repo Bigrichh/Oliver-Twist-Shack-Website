@@ -6,7 +6,7 @@
         <section class="hero w-full h-screen flex flex-col">
             <NavBar></NavBar>
             <div class=" w-full h-full text-white p-[24px] md:p-[48px] flex flex-col justify-end">
-                <div data-aos="fade-up" data-aos-duration="1500">
+                <div data-aos="fade-up" data-aos-duration="500">
                     <h1 class="font-light text-[32px] md:text-[40px] xl:text-[71px] 2xl:text-[85.35px] opacity-90">
                         WELCOME TO OLIVER
                         TWIST SHACK</h1>
@@ -28,10 +28,10 @@
         <section class="w-full h-fit px-[24px] md:px-[48px] py-[48px] md:py-[96px]">
             <div class="flex flex-col xl:flex-row gap-[24px] xl:gap-0 xl:justify-between">
 
-                <h2 data-aos="fade-up" data-aos-duration="1500" class="text-[24px] md:text-[32px] 2xl:text-[40px] font-light">About Us</h2>
+                <h2 data-aos="fade-up" data-aos-duration="500" class="text-[24px] md:text-[32px] 2xl:text-[40px] font-light">About Us</h2>
 
                 <div class="w-full xl:w-[870px] 2xl:w-[970px] opacity-50 flex flex-col gap-[48px]">
-                    <p data-aos="fade-up" data-aos-duration="1500" class="text-[18px] md:text-[20px] 2xl:text-[24px] font-light">Oliver Twist Shack is where flavor
+                    <p data-aos="fade-up" data-aos-duration="500" class="text-[18px] md:text-[20px] 2xl:text-[24px] font-light">Oliver Twist Shack is where flavor
                         meets
                         sustainability. Our
                         passion is serving up delicious,
@@ -41,13 +41,13 @@
                         plant-based menu, you can feel good knowing that your choice supports our mission to minimize
                         waste and leave a lighter footprint on the planet.</p>
                     <div class="flex flex-col md:flex-row gap-[48px] text-[16px] md:text-[18px] font-light">
-                        <p data-aos="fade-up" data-aos-duration="1500" >At Oliver Twist Shack, our mission is simple: to bring people
+                        <p data-aos="fade-up" data-aos-duration="500" >At Oliver Twist Shack, our mission is simple: to bring people
                             together through delicious
                             food, vibrant flavors, and an experience that feels like home. We’re committed to creating
                             meals that not only satisfy but also leave a lasting impression, using fresh,
                             locally-sourced ingredients and a touch of creativity in every dish. For us, it's all about
                             delivering great taste, quality, and warmth—every time.</p>
-                        <p data-aos="fade-up" data-aos-duration="1500">
+                        <p data-aos="fade-up" data-aos-duration="500">
                             What makes Oliver Twist Shack stand out is our unique approach to combining the familiar
                             comfort of traditional dishes with exciting, bold flavors. While many restaurants stick to
                             the classics, we’re always pushing the boundaries, adding our twist to each meal and
@@ -62,10 +62,10 @@
         <section class="w-full h-fit flex flex-col gap-[48px] py-[48px] md:py-[96px]">
             <div class="flex flex-col xl:flex-row md:gap-[24px] xl:gap-0 xl:justify-between px-[24px] md:px-[48px]">
 
-                <h2 data-aos="fade-up" data-aos-duration="1500" class="text-[24px] md:text-[32px] 2xl:text-[40px] font-light">Popular Dishes</h2>
+                <h2 data-aos="fade-up" data-aos-duration="500" class="text-[24px] md:text-[32px] 2xl:text-[40px] font-light">Popular Dishes</h2>
 
                 <div class="w-full xl:w-[870px] 2xl:w-[970px] opacity-50">
-                    <p data-aos="fade-up" data-aos-duration="1500" class="text-[18px] md:text-[20px] 2xl:text-[24px] font-light">Discover the creme de la creme of
+                    <p data-aos="fade-up" data-aos-duration="500" class="text-[18px] md:text-[20px] 2xl:text-[24px] font-light">Discover the creme de la creme of
                         menu delights
                         that our customers
                         can’t resist. Our popular picks feature the most sought after items from our menu, carefully
@@ -123,8 +123,8 @@
         <!-- Reviews -->
         <section
             class="w-full h-fit flex flex-col gap-[24px] xl:gap-[48px] px-[24px] md:px-[48px] py-[48px] md:py-[96px]">
-            <h2 data-aos="fade-up" data-aos-duration="1500" class="text-[24px] md:text-[32px] 2xl:text-[40px] font-light">Reviews</h2>
-            <div data-aos="fade-up" data-aos-duration="1500" class="w-full flex flex-wrap gap-[24px]">
+            <h2 data-aos="fade-up" data-aos-duration="500" class="text-[24px] md:text-[32px] 2xl:text-[40px] font-light">Reviews</h2>
+            <div data-aos="fade-up" data-aos-duration="500" class="w-full flex flex-wrap gap-[24px]">
                 <div  v-for="review in reviews"
                     class="w-full md:w-[48%] xl:w-[31.8%] 2xl:w-[458px] flex flex-col gap-[16px] p-[24px] text-[16px] md:text-[18px] border-solid border-[1px] border-black border-opacity-5">
                     <p class="opacity-50">{{ review.review }}</p>
@@ -144,8 +144,8 @@
 
         <!-- Upcoming Events -->
         <section class="w-full h-fit flex flex-col gap-[48px] px-[24px] md:px-[48px] py-[48px] md:py-[96px]">
-            <h2 data-aos="fade-up" data-aos-duration="1500" class="text-[24px] md:text-[32px] 2xl:text-[40px] font-light">Upcoming Events At The Shack</h2>
-            <div data-aos="fade-up" data-aos-duration="1500" class="w-full flex flex-wrap gap-[24px]">
+            <h2 data-aos="fade-up" data-aos-duration="500" class="text-[24px] md:text-[32px] 2xl:text-[40px] font-light">Upcoming Events At The Shack</h2>
+            <div data-aos="fade-up" data-aos-duration="500" class="w-full flex flex-wrap gap-[24px]">
                 <div v-for="event in events"
                     class="w-full md:w-[48%] xl:w-[31.8%] 2xl:w-[23.5%] flex flex-col gap-[16px] text-[18px] border-solid border-[1px] border-black border-opacity-5">
                     <div class="w-full h-[380px] md:h-[400px] 2xl:h-[430px]">
@@ -202,8 +202,8 @@
 
         <!-- FAQs -->
         <section class=" w-full h-fit flex flex-col gap-[48px] px-[24px] md:px-[48px] py-[48px] md:py-[96px]">
-            <h2 data-aos="fade-up" data-aos-duration="1500" class="text-[24px] md:text-[32px] 2xl:text-[40px] font-light">Frequently Asked Questions</h2>
-            <div data-aos="fade-up" data-aos-duration="1500" class="p-[10px] flex flex-col gap-[10px]">
+            <h2 data-aos="fade-up" data-aos-duration="500" class="text-[24px] md:text-[32px] 2xl:text-[40px] font-light">Frequently Asked Questions</h2>
+            <div data-aos="fade-up" data-aos-duration="500" class="p-[10px] flex flex-col gap-[10px]">
                 <div v-for="(faq, index) in FAQs"
                     class="w-full flex flex-col md:flex-row gap-[24px] md:gap-[64px] py-[32px] border-t-[1px] border-b-[1px] border-black border-opacity-10">
                     <p class="w-full text-[20px] 2xl:text-[24px] font-light">{{ index + 1 }}. {{ faq.question }}</p>
